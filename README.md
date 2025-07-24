@@ -5,6 +5,6 @@ Senior Android Developer | Jetpack Compose | Clean Architecture | AWS
 💼 Looking to contribute to high-scale apps in MNCs
 
 
-📄 [My Resume](https://your-resume-link.com)
+📄 [My Resume](https://github.com/santhu2384/Santhu2384/blob/main/Santhosh_resume.pdf)
 
 🛠️ Tech Stack: Kotlin · Jetpack Compose · Hilt · Retrofit · Room · Firebase · Coroutines · MVVM · Clean Architecture
